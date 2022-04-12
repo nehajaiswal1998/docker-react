@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          welcome to neha nts
+          welcome to neha nts labs
         </p>
         <a
           className="App-link"
